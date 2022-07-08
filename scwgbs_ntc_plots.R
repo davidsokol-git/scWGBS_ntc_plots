@@ -33,10 +33,3 @@ optimally_aligned_ntc <- function(df){
 }
 
 optimally_aligned_ntc(df)
-
-
-
-
-
-
-
